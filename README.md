@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <div align=left><h1>📞 Contacts</h1></div>
 <div align=center> 
   <br>
-<a href="dbdudska255@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=dbdudska255@gmail.com"/></a>
+<a href="https://dbdudska255@gmail.com">
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://dbdudska255@gmail.com"
+</a>
 </div>
-
