@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=YooYoungNam&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=YooYoungNam&fontSize=70" />
 
 
 <div align=center><h1>📚 Skills</h1></div>
