@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungNam Yoo&fontSize=70" />
 <div align=left><h1>📚 Me</h1></div>
-<div align=center> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   <br>
 
 
