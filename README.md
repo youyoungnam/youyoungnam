@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungNam Yoo&fontSize=70" />
 
 
-<div align=center><h1>📚 Skills</h1></div>
+<div align=right><h1>📚 Skills</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">  
