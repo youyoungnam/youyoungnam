@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<svg src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungNam Yoo&fontSize=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungNam Yoo&fontSize=70"/>
 
 <div align=left><h1>👨🏻‍💻 About_</h1></div>
 
@@ -52,3 +52,6 @@ Here are some ideas to get you started:
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>
+ 
+![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjeong09&show_icons=true)
+
