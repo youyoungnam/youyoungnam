@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungNam Yoo&fontSize=70"/>
-
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungNam Yoo&fontSize=70"/> -->
+![이름](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungNam Yoo&fontSize=70)
 <div align=left><h1>👨🏻‍💻 About_</h1></div>
 
 <div align=left><h1>📚 Skills</h1></div>
@@ -53,6 +53,6 @@ Here are some ideas to get you started:
 </a>
 </div>
  
-![y](https://github-readme-stats.vercel.app/api?username=Youngnam&show_icons=true&theme=transparent)
+![Youngnam's Github](https://github-readme-stats.vercel.app/api?username=Youngnam&show_icons=true&theme=transparent)
 
 
