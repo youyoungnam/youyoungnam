@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungNam Yoo&fontSize=70"/>
+<svg src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungNam Yoo&fontSize=70"/>
 
 <div align=left><h1>👨🏻‍💻 About_</h1></div>
 
