@@ -53,5 +53,6 @@ Here are some ideas to get you started:
 </a>
 </div>
  
-![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youngnam&show_icons=true)
+![Youngnam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Youngnam&show_icons=true)
+
 
