@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <div align=left> 
 
  [TravelC2B](https://travelc2b.com/)
-   - [심층학습모델을 기초로 위치 변화에 무관하게 랜드 마크를 식별하기 위한 장치 및 이를 위한 방법]
+ [심층학습모델을 기초로 위치 변화에 무관하게 랜드 마크를 식별하기 위한 장치 및 이를 위한 방법]
     ![image](https://github.com/youyoungnam/youyoungnam/assets/60678531/fe86db27-2f11-44f0-99bb-5bd5ef6583cf)
 
    - [투자](https://www.nextunicorn.kr/content/ddb846be98fccf37)
