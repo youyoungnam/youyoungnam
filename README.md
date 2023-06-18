@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungNam Yoo&fontSize=70"/> -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <div align=left><h1>👨🏻‍💻 About_Me</h1></div>
 
