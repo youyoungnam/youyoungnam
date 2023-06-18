@@ -50,17 +50,17 @@ Here are some ideas to get you started:
 <div align=left><h1>📞 Contacts</h1></div>
 <div align=left> 
   <br>
-<a href="https://dbdudska255@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://dbdudska255@gmail.com"
+<a href="https://google.com">
+    <img src="http://img.shields.io/badge/Gmail[dbdudska255@gmail.com]-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://dbdudska255@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
  
-<a href="https://dbdudska113@naver.com">
-    <img src="https://img.shields.io/badge/Naver-blue?style=flat&logo=Naver&logoColor=green&link=https://dbdudska113@naver.com"
+<a href="https://naver.com">
+    <img src="https://img.shields.io/badge/Naver[dbdudska113@naver.com]-blue?style=flat&logo=Naver&logoColor=green&link=https://dbdudska113@naver.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://www.linkedin.com/in/%EC%98%81%EB%82%A8-%EC%9C%A0-1b7449205">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&link=https://www.linkedin.com/in/%EC%98%81%EB%82%A8-%EC%9C%A0-1b7449205/"
+    <img src="https://img.shields.io/badge/LinkedIn[유영남]-black?style=flat&logo=linkedin&link=https://www.linkedin.com/in/%EC%98%81%EB%82%A8-%EC%9C%A0-1b7449205/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
