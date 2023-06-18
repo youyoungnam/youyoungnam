@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align=left><h1>👨🏻‍💻 About_Me</h1></div>
 3년차 개발자로 TravelC2B 에서 머신러닝 및 서비스 개발을 시작했고 현재는 Okestro 에서 전사 CMP 배포/운영을 담당하고 있습니다. 첫 번째 스타트업에서는 머신러닝 모델 개발 및 Python 백엔드개발(Flask)를 주로 담당했습니다. 첫 번째 회사(6명)에서 개발이외에 투자,특허출원을 경험을 했습니다.
-
+<br></br>
 현재 회사에서는 초기에 MLops 제품을 개발하며 사내 인공지능 연구소에서 사용할 수 있을정도로 개발하고 기여했습니다. 그 이후로 전사 제품을 통합하고 운영에 필요한 배포/운영을 담당하여 개발을 하고 있습니다.
 
 <div align=left><h1>📚 Skills</h1></div>
@@ -50,6 +50,26 @@ Here are some ideas to get you started:
 </div>
 
 
+<br></br>
+<div align=left><h1 style="text-decoration: none;">EXPERIENCE</h1></div>
+<div align=left> 
+ 
+### [TravelC2B](https://travelc2b.com/)
+
+ #### 특허
+ 심층학습모델을 기초로 위치 변화에 무관하게 랜드 마크를 식별하기 위한 장치 및 이를 위한 방법
+   
+   ![image](https://github.com/youyoungnam/youyoungnam/assets/60678531/fe86db27-2f11-44f0-99bb-5bd5ef6583cf)
+ 
+### [Okestro](https://www.okestro.com/)
+#### 특허
+유사도에 기반한 학습모델 추천 장치 및 이를 포함하는 클라우드 통합운영 시스템
+
+  ![image](https://github.com/youyoungnam/youyoungnam/assets/60678531/3e6304d8-1a62-4d92-b1ef-3eff8a8de990)
+
+</div>
+ 
+
 <div align=left><h1>📞 Contacts</h1></div>
 <div align=left> 
   <br>
@@ -68,25 +88,3 @@ Here are some ideas to get you started:
 </a>
 
 </div>
-
-
-<div align=left><h1>EXPERIENCE</h1></div>
-<div align=left> 
-
-## [TravelC2B](https://travelc2b.com/)
-
- #### 특허
- 심층학습모델을 기초로 위치 변화에 무관하게 랜드 마크를 식별하기 위한 장치 및 이를 위한 방법
-   
-   ![image](https://github.com/youyoungnam/youyoungnam/assets/60678531/fe86db27-2f11-44f0-99bb-5bd5ef6583cf)
- 
- 
- ## [Okestro](https://www.okestro.com/)
-#### 특허
-유사도에 기반한 학습모델 추천 장치 및 이를 포함하는 클라우드 통합운영 시스템
-
-  ![image](https://github.com/youyoungnam/youyoungnam/assets/60678531/3e6304d8-1a62-4d92-b1ef-3eff8a8de990)
-
-</div>
- 
-
