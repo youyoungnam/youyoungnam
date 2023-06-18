@@ -59,6 +59,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Naver-blue?style=flat&logo=Naver&logoColor=green&link=https://dbdudska113@naver.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="[https://dbdudska113@naver.com](https://www.linkedin.com/in/%EC%98%81%EB%82%A8-%EC%9C%A0-1b7449205/)">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&link=https://www.linkedin.com/in/%EC%98%81%EB%82%A8-%EC%9C%A0-1b7449205/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 </div>
  
 
