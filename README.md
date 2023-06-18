@@ -54,6 +54,11 @@ Here are some ideas to get you started:
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://dbdudska255@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+ 
+<a href="https://dbdudska113@naver.com">
+    <img src="https://img.shields.io/badge/Naver-blue?style=flat&logo=Naver&logoColor=green&link=https://dbdudska113@naver.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 </div>
  
 
