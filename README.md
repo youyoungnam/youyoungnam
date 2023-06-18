@@ -23,6 +23,10 @@ Here are some ideas to get you started:
  <div align=center> 
   <img src="https://img.shields.io/badge/kubernetes-181717?style=for-the-badge&logo=kubernetes&logoColor=blue">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-181717?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/argoCD-181717?style=for-the-badge&logo=argoCD&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Google%20Cloud%20Platform-2496ED?style=for-the-badge&logo=google-cloud&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
  <div>
    <div align=center> <h3> knowledgeable <h3> </div> 
