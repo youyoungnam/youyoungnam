@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Young%20nam&fontSize=90)
-
+-->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!&fontSize=90)
 <div align=left><h1>👨🏻‍💻 About_Me</h1></div>
 3년차 개발자로 TravelC2B 에서 머신러닝 및 서비스 개발을 시작했고 현재는 Okestro 에서 전사 CMP 배포/운영을 담당하고 있습니다. 첫 번째 스타트업에서는 머신러닝 모델 개발 및 Python 백엔드개발(Flask)를 주로 담당했습니다. 첫 번째 회사(6명)에서 개발이외에 투자,특허출원을 경험을 했습니다.
 <br></br>
