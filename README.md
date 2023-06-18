@@ -79,10 +79,13 @@ Here are some ideas to get you started:
  심층학습모델을 기초로 위치 변화에 무관하게 랜드 마크를 식별하기 위한 장치 및 이를 위한 방법
    
    ![image](https://github.com/youyoungnam/youyoungnam/assets/60678531/fe86db27-2f11-44f0-99bb-5bd5ef6583cf)
-
-[투자](https://www.nextunicorn.kr/content/ddb846be98fccf37)
  
- [Okestro](https://www.okestro.com/)
+ 
+ ## [Okestro](https://www.okestro.com/)
+#### 특허
+유사도에 기반한 학습모델 추천 장치 및 이를 포함하는 클라우드 통합운영 시스템
+
+  ![image](https://github.com/youyoungnam/youyoungnam/assets/60678531/3e6304d8-1a62-4d92-b1ef-3eff8a8de990)
 
 </div>
  
