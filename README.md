@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <div align=center> 
 <div align=center> <h3>main knowledge <h3> </div> 
  <div align=center> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>
   <img src="https://img.shields.io/badge/kubernetes-181717?style=for-the-badge&logo=kubernetes&logoColor=blue">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
  <div>
    <div align=center> <h3> knowledgeable <h3> </div> 
    <div align=center>
